@@ -358,6 +358,13 @@ h2 {
   line-height: 40px;
   margin-top: 60px;
 }
+h3 {
+  font-size: 18px;
+  background: #f7f7f7;
+  padding: 8px 15px 8px;
+  line-height: 40px;
+  margin-top: 60px;
+}
 ul {
   list-style: none;
 }
@@ -11547,6 +11554,8 @@ figure.highlight .section {
   }
 }
 /*----フォント変更---*/
-*{
-  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro", "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "メイリオ", sans-serif;
+* {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro",
+    "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
+    "メイリオ", sans-serif;
 }
