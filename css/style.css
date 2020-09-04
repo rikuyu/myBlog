@@ -11545,6 +11545,7 @@ figure.highlight .section {
     "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
     "メイリオ", sans-serif;
 }
-p {
-  line-height: 20px;
+
+body > p {
+  line-height: 5px;
 }
