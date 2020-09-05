@@ -358,7 +358,7 @@ h2 {
   line-height: 40px;
   margin-top: 60px;
 }
-h3 {
+h4 {
   font-size: 18px;
   background: #f7f7f7;
   padding: 8px 15px 8px;
@@ -11555,10 +11555,5 @@ figure.highlight .section {
 }
 /*----フォント変更---*/
 * {
-  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro",
-    "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
-    "メイリオ", sans-serif;
-}
-body > p{
-  line-height: 5px;
+  font-family: Noto, "Hiragino Sans", Helvetica, Arial, sans-serif;
 }

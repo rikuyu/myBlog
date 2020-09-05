@@ -11541,11 +11541,5 @@ figure.highlight .section {
 
 /*----フォント変更---*/
 * {
-  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro",
-    "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
-    "メイリオ", sans-serif;
-}
-
-body > p {
-  line-height: 5px;
+  font-family: Noto, "Hiragino Sans", Helvetica, Arial, sans-serif;
 }
