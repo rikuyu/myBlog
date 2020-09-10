@@ -11546,3 +11546,7 @@ figure.highlight .section {
 .fa-twitter{
   color: #1da1f2;
 }
+
+.navbar-item{
+  font-size: 15px;
+}
