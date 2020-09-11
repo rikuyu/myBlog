@@ -11543,10 +11543,10 @@ figure.highlight .section {
 * {
   font-family: Noto, "Hiragino Sans", Helvetica, Arial, sans-serif;
 }
-.fa-twitter{
+.fa-twitter .fa-address-card {
   color: #1da1f2;
 }
 
-.navbar-item{
+.navbar-item {
   font-size: 15px;
 }
