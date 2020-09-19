@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://www.yuuuki-blog.com/2020/09/13/%E3%80%90React%E3%80%91%E7%B0%A1%E5%8D%98%E3%81%AATodo%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
+        <lastmod>2020-09-19T12:05:05.313Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.yuuuki-blog.com/2020/09/19/%E3%80%90React%E3%80%91%E7%B0%A1%E5%8D%98%E3%81%AA%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
+        <lastmod>2020-09-19T12:02:35.642Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.yuuuki-blog.com/2020/09/18/%E3%80%90Node-js%E3%80%91Express%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%EF%BD%9E%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%88Express-Generator%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%EF%BC%89%EF%BD%9E/</loc>
         <lastmod>2020-09-18T01:40:46.730Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -34,14 +50,6 @@
     <url>
         <loc>https://www.yuuuki-blog.com/2020/09/15/Hexo%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%80%8C%E7%9B%AE%E6%AC%A1%E3%83%BB%E3%81%95%E3%82%89%E3%81%AB%E8%AA%AD%E3%82%80%E3%80%8D%E6%A9%9F%E8%83%BD%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%82%88%E3%81%86/</loc>
         <lastmod>2020-09-14T22:21:16.669Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.yuuuki-blog.com/2020/09/13/%E3%80%90React%E3%80%91%E7%B0%A1%E5%8D%98%E3%81%AATodo%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
-        <lastmod>2020-09-14T08:44:20.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
