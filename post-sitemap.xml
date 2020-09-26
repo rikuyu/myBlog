@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://www.yuuuki-blog.com/2020/09/13/%E3%80%90JavaScript%E3%80%91Bootstarp%E3%83%BBFont-Awesome%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Todo%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
+        <lastmod>2020-09-25T15:20:04.638Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.yuuuki-blog.com/2020/09/24/%E3%80%90Node-js%E3%80%91Express%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8D%E3%81%86/</loc>
         <lastmod>2020-09-24T05:14:22.702Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -90,14 +98,6 @@
     <url>
         <loc>https://www.yuuuki-blog.com/2020/09/19/%E3%80%90React%E3%80%91%E7%B0%A1%E5%8D%98%E3%81%AA%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
         <lastmod>2020-09-19T20:41:40.317Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.yuuuki-blog.com/2020/09/13/%E3%80%90JavaScript%E3%80%91Bootstarp%E3%83%BBFont-Awesome%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Todo%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
-        <lastmod>2020-09-15T13:08:42.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
