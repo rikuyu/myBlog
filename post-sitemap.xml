@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://www.yuuuki-blog.com/2020/10/03/%E3%80%90React%E3%80%91%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-%EF%BD%9Efecth-API%EF%BD%9E/</loc>
+        <lastmod>2020-10-03T00:25:35.405Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.yuuuki-blog.com/2020/10/02/%E3%80%90React%E3%80%91%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7useState%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
-        <lastmod>2020-10-02T03:11:44.394Z</lastmod>
+        <lastmod>2020-10-02T05:31:52.672Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
