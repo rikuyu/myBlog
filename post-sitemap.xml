@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://www.yuuuki-blog.com/2021/03/12/%E3%80%90Kotlin%E3%80%91%E3%82%AF%E3%82%A4%E3%82%BA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E8%A9%B1/</loc>
+        <lastmod>2021-03-12T13:25:35.106Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.yuuuki-blog.com/2020/12/24/%E8%AA%AD%E3%82%93%E3%81%A7%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93%E6%9B%B8%EF%BD%9E2020%E4%B8%8B%E5%8D%8A%E6%9C%9F%EF%BD%9E/</loc>
         <lastmod>2021-01-05T15:36:04.949Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,14 +82,6 @@
     <url>
         <loc>https://www.yuuuki-blog.com/2020/11/10/Github%E3%81%AEREST-API%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
         <lastmod>2020-11-11T01:02:19.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.yuuuki-blog.com/2020/11/05/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AD%98/</loc>
-        <lastmod>2020-11-07T20:04:07.068Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -266,14 +266,6 @@
     <url>
         <loc>https://www.yuuuki-blog.com/2020/09/07/%E3%80%90JavaScript%E3%80%91filter%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/</loc>
         <lastmod>2020-09-07T07:07:24.851Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.yuuuki-blog.com/2020/08/31/%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E6%99%82%E3%81%ABWord%E3%81%A7%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%AD%E3%83%BC/</loc>
-        <lastmod>2020-09-05T13:41:36.008Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
